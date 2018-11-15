@@ -80,3 +80,6 @@ xyplot(resamps, what = "BlandAltman")
 #Comparing both models again
 diffs <- diff(resamps)
 summary(diffs)
+
+# create a simple Function
+#Kraken testing
